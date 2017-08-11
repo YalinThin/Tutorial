@@ -1,0 +1,49 @@
+1502336344303	geckodriver	INFO	Listening on 127.0.0.1:52138
+1502336346354	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502336352990	Marionette	INFO	Listening on port 52146
+1502336353790	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 127 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 127 is invalid -- plural rule #1;
+
+1502336697257	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/netmonitor/components/request-list-header.js, line 72: TypeError: this.refs.header is undefined
+JavaScript error: , line 0: uncaught exception: Toutiao Related-Reads is not supported on PC!
+JavaScript error: http://s3a.pstatp.com/toutiao/gallery_img/dist/img.min.js?ver=20170809_01, line 1: TypeError: g.win is undefined
+JavaScript error: https://a1.alicdn.com/creation/html/2016/06/20/creation-245057E3sJ6U0UZ8D-2830683.html#tanxdspv=http%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_32479643_3494618_63260469%26pvid%3d0bb490430000598bf95c361a006c6be2%26s%3d300x250%26d%3d0%26t%3d1502345564&pid=mm_32479643_3494618_63260469&tp=5&tsid=0bb490430000598bf95c361a006c6be2&pid=mm_32479643_3494618_63260469, line 25: TypeError: n is null
+JavaScript error: https://a1.alicdn.com/creation/html/2016/06/20/creation-245057E3sJ6U0UZ8D-2830683.html#name=itemdsp&url=http%3A%2F%2Fwww.toutiao.com%2Fch%2Fnews_discovery%2F&iswt=1&pid=tt_32479643_3494618_63256340&refpid=tt_32479643_3494618_63256340&refpos=,n,i&adx_type=0&pvid=0bb490450000598bf9c74e86006d5b1c_0&ps_id=a0e1a901373a5cdd6d64b813aef39c8f&fl=10&x-client-scheme=http&tanxdspv=http%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_32479643_3494618_63256340%26pvid%3d0bb490450000598bf9c74e86006d5b1c%26s%3d300x250%26d%3d17534123%26t%3d1502345671&u=http%3A%2F%2Fwww.toutiao.com%2Fch%2Fnews_discovery%2F&r=http%3A%2F%2Fwww.toutiao.com%2Fsearch%2F%3Fkeyword%3D%25E5%258D%2597%25E4%25BA%25AC%25E4%25B8%25AD%25E5%258D%2587%25E4%25B9%258B%25E6%2598%259F&tp=2&tsid=0bb490450000598bf9c74e86006d5b1c, line 25: TypeError: n is null
+JavaScript error: https://a1.alicdn.com/creation/html/2016/06/20/creation-245057E3sJ6U0UZ8D-2830683.html#name=itemdsp&url=http%3A%2F%2Fwww.toutiao.com%2Fch%2Fnews_car%2F&iswt=1&pid=tt_32479643_3494618_63256340&refpid=tt_32479643_3494618_63256340&refpos=,n,i&adx_type=0&pvid=0bb494360000598bf9d540f90072d0e5_0&ps_id=afa50b6c06d8d55ab21172b544381406&fl=10&x-client-scheme=http&tanxdspv=http%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_32479643_3494618_63256340%26pvid%3d0bb494360000598bf9d540f90072d0e5%26s%3d300x250%26d%3d17534123%26t%3d1502345685&u=http%3A%2F%2Fwww.toutiao.com%2Fch%2Fnews_car%2F&r=http%3A%2F%2Fwww.toutiao.com%2Fsearch%2F%3Fkeyword%3D%25E5%258D%2597%25E4%25BA%25AC%25E4%25B8%25AD%25E5%258D%2587%25E4%25B9%258B%25E6%2598%259F&tp=2&tsid=0bb494360000598bf9d540f90072d0e5, line 25: TypeError: n is null
+JavaScript error: https://a1.alicdn.com/creation/html/2016/06/20/creation-245057E3sJ6U0UZ8D-2830683.html#tanxdspv=http%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_32479643_3494618_63260469%26pvid%3d0bb4df660000598bfb0628380062ab61%26s%3d300x250%26d%3d0%26t%3d1502345990&pid=mm_32479643_3494618_63260469&tp=5&tsid=0bb4df660000598bfb0628380062ab61&pid=mm_32479643_3494618_63260469, line 25: TypeError: n is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/netmonitor/components/request-list-header.js, line 72: TypeError: this.refs.header is undefined
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: http://strip.alicdn.com/tfscom/TB1nJtlPFXXXXaUXFXXXXXXXXXX.html?tanxdspv=http%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_32479643_3494618_75352146%26pvid%3d0bb4df430001598bfe574e4200785542%26s%3d640x90%26d%3d59420271%26t%3d1502346839&pid=mm_32479643_3494618_75352146&tp=3&tsid=0bb4df430001598bfe574e4200785542&u=http%3A%2F%2Fwww.toutiao.com%2Fa6432418240034750722%2F&r=http%3A%2F%2Fwww.toutiao.com%2Fsearch%2F%3Fkeyword%3D%25E5%25B2%25B3%25E9%2598%25B3%25E8%2593%259D%25E9%25A9%25AC&tp=3&tsid=0bb4df430001598bfe574e4200785542&pid=mm_32479643_3494618_75352146, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://s3a.pstatp.com/toutiao/gallery_img/dist/img.min.js?ver=20170809_01, line 1: TypeError: g.win is undefined
+JavaScript error: http://s3a.pstatp.com/toutiao/gallery_img/dist/img.min.js?ver=20170809_01, line 1: TypeError: g.win is undefined
+JavaScript error: https://a1.alicdn.com/creation/html/2016/06/20/creation-245057E3sJ6U0UZ8D-2830683.html#tanxdspv=http%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_32479643_3494618_63260469%26pvid%3d0bb4940e0003598bff7a82e2005fc55c%26s%3d300x250%26d%3d0%26t%3d1502347130&pid=mm_32479643_3494618_63260469&tp=5&tsid=0bb4940e0003598bff7a82e2005fc55c&pid=mm_32479643_3494618_63260469, line 25: TypeError: n is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/netmonitor/components/request-list-header.js, line 72: TypeError: this.refs.header is undefined
+JavaScript error: https://a1.alicdn.com/creation/html/2016/06/20/creation-245057E3sJ6U0UZ8D-2830683.html#tanxdspv=http%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_32479643_3494618_63260469%26pvid%3d0bb4df6d0003598bffb275b700725f67%26s%3d300x250%26d%3d0%26t%3d1502347186&pid=mm_32479643_3494618_63260469&tp=5&tsid=0bb4df6d0003598bffb275b700725f67&pid=mm_32479643_3494618_63260469, line 25: TypeError: n is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/netmonitor/components/request-list-header.js, line 72: TypeError: this.refs.header is undefined
+JavaScript error: https://a1.alicdn.com/creation/html/2016/06/20/creation-245057E3sJ6U0UZ8D-2830683.html#tanxdspv=http%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_32479643_3494618_63260469%26pvid%3d0bb4df660000598c030f282700665da6%26s%3d300x250%26d%3d0%26t%3d1502348047&pid=mm_32479643_3494618_63260469&tp=5&tsid=0bb4df660000598c030f282700665da6&pid=mm_32479643_3494618_63260469, line 25: TypeError: n is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/netmonitor/components/request-list-header.js, line 72: TypeError: this.refs.header is undefined
+1502351645630	Marionette	INFO	Ceased listening
